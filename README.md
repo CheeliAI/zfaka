@@ -2,7 +2,11 @@
 
 >**郑重申明：本项目为开源程序，仅做技术交流使用**
 
->演示地址：http://faka.vs.fw199.com/
+项目地址：https://github.com/CheeliAI/zfaka
+
+>演示地址：
+ 1. 前端：http://faka.vs.fw199.com/
+ 2. 后台：http://faka.vs.fw199.com/admin    用户名：demo@demo.com 密码：123456 
  
 
 # 一、系统介绍
@@ -22,9 +26,13 @@
 1.4 支付渠道
 
 *  支付宝订购版 
+*  支付宝便捷版
+*  支付宝签约版
 *  微信便捷版  
+*  微信签约版
 *  PayPal支付 
 *  有赞接口 
+  
 
 # 二、系统部署
  

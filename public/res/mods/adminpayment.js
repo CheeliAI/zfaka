@@ -10,9 +10,9 @@ layui.define(['layer', 'table', 'form'], function(exports){
 		page: true,
 		cellMinWidth:60,
 		cols: [[
-			{field: 'id', title: 'ID', width:80},
+			{field: 'id', title: 'ID', width:80,hide:true},
 			{field: 'payment', title: '支付渠道', minWidth:160},
-			{field: 'alias', title: '别名', minWidth:160},
+			//{field: 'alias', title: '别名', minWidth:160,hide:true},
 			{field: 'app_id', title: 'APPID'},
 			{field: 'active', title: '是否激活', width:100, templet: '#active',align:'center'},
 			{field: 'opt', title: '操作', width:100, templet: '#opt',align:'center'}
